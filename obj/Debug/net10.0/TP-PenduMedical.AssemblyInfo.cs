@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP-PenduMedical")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cb901c0b5baf81e5c15e2927b4d1be152004a8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d2ca7d1cd6658a4cbb3b43896c66ecee3da23f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP-PenduMedical")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP-PenduMedical")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
