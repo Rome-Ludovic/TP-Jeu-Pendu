@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\users\\rome\\Documents\\TPprogram\\Programmation\\TP-PenduMedical\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DDBE496-8251-4E65-B750-913078734E39}|TP-PenduMedical.csproj|d:\\users\\rome\\documents\\tpprogram\\programmation\\tp-pendumedical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DDBE496-8251-4E65-B750-913078734E39}|TP-PenduMedical.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3C7710A-DFCA-B2D3-1E5D-ABFA9D3BEE24}|TP-PenduMedical.csproj|d:\\users\\rome\\documents\\tpprogram\\programmation\\tp-pendumedical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C7710A-DFCA-B2D3-1E5D-ABFA9D3BEE24}|TP-PenduMedical.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\users\\rome\\Documents\\TPprogram\\Programmation\\TP-PenduMedical\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwJIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T06:02:05.257Z",
               "EditorCaption": ""
