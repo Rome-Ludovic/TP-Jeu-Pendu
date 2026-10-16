@@ -1,0 +1,15 @@
+D:\users\rome\Documents\TPprogram\Programmation\TP-PenduMedical\bin\Debug\net10.0\TP-PenduMedical.exe
+D:\users\rome\Documents\TPprogram\Programmation\TP-PenduMedical\bin\Debug\net10.0\TP-PenduMedical.deps.json
+D:\users\rome\Documents\TPprogram\Programmation\TP-PenduMedical\bin\Debug\net10.0\TP-PenduMedical.runtimeconfig.json
+D:\users\rome\Documents\TPprogram\Programmation\TP-PenduMedical\bin\Debug\net10.0\TP-PenduMedical.dll
+D:\users\rome\Documents\TPprogram\Programmation\TP-PenduMedical\bin\Debug\net10.0\TP-PenduMedical.pdb
+D:\users\rome\Documents\TPprogram\Programmation\TP-PenduMedical\obj\Debug\net10.0\TP-PenduMedical.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\rome\Documents\TPprogram\Programmation\TP-PenduMedical\obj\Debug\net10.0\TP-PenduMedical.AssemblyInfoInputs.cache
+D:\users\rome\Documents\TPprogram\Programmation\TP-PenduMedical\obj\Debug\net10.0\TP-PenduMedical.AssemblyInfo.cs
+D:\users\rome\Documents\TPprogram\Programmation\TP-PenduMedical\obj\Debug\net10.0\TP-PenduMedical.csproj.CoreCompileInputs.cache
+D:\users\rome\Documents\TPprogram\Programmation\TP-PenduMedical\obj\Debug\net10.0\TP-PenduMedical.dll
+D:\users\rome\Documents\TPprogram\Programmation\TP-PenduMedical\obj\Debug\net10.0\refint\TP-PenduMedical.dll
+D:\users\rome\Documents\TPprogram\Programmation\TP-PenduMedical\obj\Debug\net10.0\TP-PenduMedical.pdb
+D:\users\rome\Documents\TPprogram\Programmation\TP-PenduMedical\obj\Debug\net10.0\TP-PenduMedical.genruntimeconfig.cache
+D:\users\rome\Documents\TPprogram\Programmation\TP-PenduMedical\obj\Debug\net10.0\ref\TP-PenduMedical.dll
+D:\users\rome\Documents\TPprogram\Programmation\TP-PenduMedical\obj\Debug\net10.0\TP-PenduMedical.sourcelink.json

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TP-PenduMedical/1.0.0": {
+        "runtime": {
+          "TP-PenduMedical.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP-PenduMedical/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
